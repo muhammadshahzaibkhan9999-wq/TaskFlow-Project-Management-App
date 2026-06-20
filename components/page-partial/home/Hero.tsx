@@ -19,11 +19,11 @@ export default function Hero() {
                 Trusted by 10,000+ teams
               </Badge>
               <h1>
-  Manage Projects Smarter with{" "}
+  Manage Projects & Teams Efficiently with{" "}
   <span className="text-blue-600">TaskFlow</span>
 </h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                TaskFlow helps teams organize projects, track tasks, and collaborate efficiently in one place.
+                TaskFlow helps teams manage projects, automate workflows, and improve productivity with a modern project management platform.
               </p>
             </div>
 
@@ -83,10 +83,10 @@ export default function Hero() {
                     </h4>
                     <div className="space-y-2">
                       <div className="bg-white p-3 rounded border text-sm">
-                        Design new logo
+                        Create AI Resume
                       </div>
                       <div className="bg-white p-3 rounded border text-sm">
-                        Update website
+                        Deploy on AWS
                       </div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@ export default function Hero() {
                     </h4>
                     <div className="space-y-2">
                       <div className="bg-white p-3 rounded border text-sm truncate">
-                        Write documentation
+                        Build CI/CD Pipeline
                       </div>
                     </div>
                   </div>
@@ -108,10 +108,10 @@ export default function Hero() {
                     </h4>
                     <div className="space-y-2">
                       <div className="bg-white p-3 rounded border text-sm">
-                        Setup project
+                        Docker Setup
                       </div>
                       <div className="bg-white p-3 rounded border text-sm">
-                        Team meeting
+                        Sprint Planning
                       </div>
                     </div>
                   </div>
