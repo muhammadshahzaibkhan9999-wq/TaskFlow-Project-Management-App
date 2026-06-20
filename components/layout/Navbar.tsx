@@ -45,7 +45,7 @@ const Navbar = ({
               <Trello className="h-6 w-6 sm:w-8 sm:h-8 text-blue-600" />
               <span className="text-xl sm:text-2xl font-bold text-gray-900">
                 {" "}
-                Trello Clone
+                TaskFlow
               </span>
             </div>
           </Link>
@@ -155,7 +155,7 @@ const Navbar = ({
             <Trello className="h-6 w-6 sm:w-8 sm:h-8 text-blue-600" />
             <span className="text-xl sm:text-2xl font-bold text-gray-900">
               {" "}
-              Trello Clone
+              TaskFlow
             </span>
           </div>
         </Link>

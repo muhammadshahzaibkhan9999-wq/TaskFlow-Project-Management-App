@@ -18,13 +18,12 @@ export default function Hero() {
                 <Star className="w-3 h-3 mr-1" />
                 Trusted by 10,000+ teams
               </Badge>
-              <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Organize your work with{" "}
-                <span className="text-blue-600">Trello Clone</span>
-              </h1>
+              <h1>
+  Manage Projects Smarter with{" "}
+  <span className="text-blue-600">TaskFlow</span>
+</h1>
               <p className="text-xl text-gray-600 leading-relaxed">
-                The visual way to manage any project, workflow, or team. Move
-                work forward with boards, lists, and cards.
+                TaskFlow helps teams organize projects, track tasks, and collaborate efficiently in one place.
               </p>
             </div>
 

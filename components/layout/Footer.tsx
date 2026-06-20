@@ -8,9 +8,9 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-blue-600 rounded flex items-center justify-center">
-                <span className="text-white font-bold">T</span>
+                <span className="text-white font-bold">TaskFlow</span>
               </div>
-              <span className="text-xl font-bold">Trello Clone</span>
+              <span className="text-xl font-bold">TaskFlow</span>
             </div>
             <p className="text-gray-400">
               The visual way to manage any project, workflow, or team.
@@ -97,7 +97,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 Trello Clone. All rights reserved.</p>
+          <p>&copy; 2024 TaskFlow. All rights reserved.</p>
         </div>
       </div>
     </footer>
