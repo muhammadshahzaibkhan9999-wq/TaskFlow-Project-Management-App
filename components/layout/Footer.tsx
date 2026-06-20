@@ -7,9 +7,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-blue-600 rounded flex items-center justify-center">
-                <span className="text-white font-bold">TaskFlow</span>
-              </div>
+              
               <span className="text-xl font-bold">TaskFlow</span>
             </div>
             <p className="text-gray-400">
@@ -21,23 +19,23 @@ export default function Footer() {
             <h3 className="font-semibold mb-4">Product</h3>
             <ul className="space-y-2 text-gray-400">
               <li>
-                <Link href="/pricing" className="hover:text-white">
-                  Pricing
+                <Link href="/dashboard" className="hover:text-white">
+                  Dashboard
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Features
+                  Tasks
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Integrations
+                  Projects
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  API
+                  Reports
                 </Link>
               </li>
             </ul>
@@ -48,22 +46,22 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li>
                 <Link href="#" className="hover:text-white">
-                  About
+                  About Me
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Careers
+                  Portfolio
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Blog
+                  GitHub
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Contact
+                  LinkedIn
                 </Link>
               </li>
             </ul>
@@ -74,22 +72,22 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-400">
               <li>
                 <Link href="#" className="hover:text-white">
-                  Help Center
+                  Documentation
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Community
+                  Help Centre
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Status
+                  Contact
                 </Link>
               </li>
               <li>
                 <Link href="#" className="hover:text-white">
-                  Security
+                  FAQ
                 </Link>
               </li>
             </ul>
@@ -97,7 +95,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 TaskFlow. All rights reserved.</p>
+          <p>&copy; 2026 TaskFlow Built by Muhammad Shahzaib Imran Khan.</p>
         </div>
       </div>
     </footer>
